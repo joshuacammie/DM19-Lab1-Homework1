@@ -1,0 +1,9 @@
+
+
+amazon   1000
+
+imdb     748
+
+yelp      1000
+
+       total = 2748
